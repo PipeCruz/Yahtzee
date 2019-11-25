@@ -1,0 +1,25 @@
+<component name="ArtifactManager">
+  <artifact type="javafx" name="Yahtzee">
+    <output-path>$PROJECT_DIR$/out/artifacts/Yahtzee</output-path>
+    <properties id="javafx-properties">
+      <options>
+        <option name="appClass" value="important.Main" />
+        <option name="description" value="" />
+        <option name="height" value="195" />
+        <option name="htmlPlaceholderId" value="" />
+        <option name="title" value="Yahtzee" />
+        <option name="vendor" value="cruzinc" />
+        <option name="version" value="" />
+        <option name="width" value="350" />
+      </options>
+    </properties>
+    <root id="root">
+      <element id="archive" name="Yahtzee.jar">
+        <element id="module-output" name="Yahtzee" />
+        <element id="directory" name="META-INF">
+          <element id="file-copy" path="$PROJECT_DIR$/META-INF/MANIFEST.MF" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
